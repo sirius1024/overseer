@@ -13,3 +13,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# overseer configuration files and output
+
+overseer
+overseer.json
+overseer.yaml
+overseer.yml
+overseer.conf
+
+# golang
+go.sum
